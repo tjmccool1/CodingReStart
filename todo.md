@@ -1,0 +1,15 @@
+todo list
+-[x] install Tomcat
+-[x]install mysql
+- [x]install maven
+- []install spring
+- [x]read up on markdown docs
+- [x]ensure git is installd
+- [x]install npm (node)
+- [x]connect to git
+- []connect to cloud storage?
+- []work on code up
+- []work on code camp
+- [x]setup Exercism
+-  []work on Exercism
+- []work on code wars
