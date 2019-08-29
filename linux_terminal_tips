@@ -1,0 +1,4 @@
+add to path for access from terminal
+
+echo 'export PATH=/opt/sublime_text:$PATH' >> ~/.bash_profile
+source ~/.bash_profile
